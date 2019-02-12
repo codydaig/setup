@@ -64,6 +64,6 @@ When you `git clone` your coding projects, you should put them in a place where 
 
 ```bash
 cd /mnt/c/code/hr/
-git clone 
+git clone
 ```
 
