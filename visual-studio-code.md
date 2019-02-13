@@ -1,6 +1,6 @@
 # Visual Studio Code
 
-We'll be using Visual Studio Code as our primary text editor of choice.
+We'll be using Visual Studio Code as our primary text editor of choice. While it comes with a great set of default settings, we'll want to make a few adjustments to help maximize our learning during the course.
 
 ## Configuration
 
@@ -18,10 +18,12 @@ We'll be using Visual Studio Code as our primary text editor of choice.
 ### Install
 
 * Live Share
+  * Log in with your GitHub account when Live Share prompts you to do so.
 
 ### Disable
 
 * Source Control from left Activity Bar sidebar
+  * Right click the Git branch icon on the left Activity Bar sidebar, then `Hide`. This will prevent you from accidentally using non-terminal Git commands via Visual Studio Code.
 
 ![](.gitbook/assets/image.png)
 
@@ -29,13 +31,5 @@ We'll be using Visual Studio Code as our primary text editor of choice.
 
 * Prettier
 * Quokka
-* Using Git from within the Visual Studio Code GUI is prohibited. You may use Git functionality only from within the terminal \(if you're using the integrated terminal, that's fine!\)
-
-## Pair Programming
-
-Rather than using `git commit -m`, you will use `git commit` and write in a `Co-authored-by: FirstName LastName <email@address.com>` line at the end of each commit message.
-
-You will then push your commit to both of the pairs' forks!
-
-The next time you come back from break, switch whose Live Share session you're using. Make sure you pull down the latest changes every time!
+* Using Git from within the Visual Studio Code GUI is prohibited. You may use Git functionality only from within the terminal. \(If you're using Git via integrated terminal, that's fine.\)
 
