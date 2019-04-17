@@ -28,7 +28,7 @@ The image comes installed with:
 * Google Chrome
 * Slack
 * Git
-* Node 10
+* Node.js 10
 * MariaDB \(direct replacement for MySQL\)
 
 Be sure to read more about how you should use your Linux Virtual Machine [here](linux-virtual-machine.md).
