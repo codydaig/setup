@@ -4,7 +4,11 @@ We'll be using Visual Studio Code as our primary text editor of choice. While it
 
 ## Configuration
 
-### Settings
+### Windows Subsystem for Linux Users
+
+If you're using Windows 10 and enabled the Windows Subsystem for Linux feature, you need to tell Visual Studio Code to use your WSL Bash (aka Ubuntu Bash or Linux Bash) as its default integrated terminal. Follow the instructions at https://stackoverflow.com/a/56225296/3814251.
+
+### Preferences
 
 ```javascript
 {
