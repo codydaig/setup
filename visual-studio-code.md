@@ -8,10 +8,16 @@ We'll be using Visual Studio Code as our primary text editor of choice. While it
 
 ```javascript
 {
+  "editor.parameterHints.enabled": false,
   "editor.renderWhitespace": "all",
+  "editor.snippetSuggestions": "none",
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
+  "emmet.showExpandedAbbreviation": "never",
   "files.trimTrailingWhitespace": true,
+  "javascript.suggest.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "javascript.validate.enable": false,
 }
 ```
 
