@@ -12,6 +12,7 @@ If you're using Windows 10 and enabled the Windows Subsystem for Linux feature, 
 
 ```javascript
 {
+  "editor.lightbulb.enabled": false,
   "editor.parameterHints.enabled": false,
   "editor.renderWhitespace": "all",
   "editor.snippetSuggestions": "none",
