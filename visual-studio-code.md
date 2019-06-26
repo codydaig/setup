@@ -22,7 +22,7 @@ If you're using Windows 10 and enabled the Windows Subsystem for Linux feature, 
   "files.trimTrailingWhitespace": true,
   "javascript.suggest.enabled": false,
   "javascript.updateImportsOnFileMove.enabled": "never",
-  "javascript.validate.enable": false,
+  "javascript.validate.enable": false
 }
 ```
 
