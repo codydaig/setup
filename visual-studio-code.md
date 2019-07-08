@@ -6,7 +6,7 @@ We'll be using Visual Studio Code as our primary text editor of choice. While it
 
 ### Windows Subsystem for Linux Users
 
-If you're using Windows 10 and enabled the Windows Subsystem for Linux feature, you need to tell Visual Studio Code to use your WSL Bash (aka Ubuntu Bash or Linux Bash) as its default integrated terminal. Follow the instructions at https://stackoverflow.com/a/56225296/3814251.
+If you're using Windows 10 and enabled the Windows Subsystem for Linux feature, you need to tell Visual Studio Code to use your WSL Bash \(aka Ubuntu Bash or Linux Bash\) as its default integrated terminal. Follow the instructions at [https://stackoverflow.com/a/56225296/3814251](https://stackoverflow.com/a/56225296/3814251).
 
 ### Preferences
 
@@ -38,7 +38,12 @@ If you're using Windows 10 and enabled the Windows Subsystem for Linux feature, 
 
 ![](.gitbook/assets/image.png)
 
-### Banned 
+* Source Control from bottom Status Bar
+  * Open a Git repository with Visual Studio Code and right click the bottom status bar. Select `Source Control` so it becomes unchecked. This will prevent you from accidentally using non-terminal Git commands via Visual Studio Code.
+
+![](.gitbook/assets/image%20%282%29.png)
+
+### Banned
 
 * Prettier
 * Quokka
