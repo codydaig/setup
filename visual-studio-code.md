@@ -40,6 +40,7 @@ If you're using Windows 10 and enabled the Windows Subsystem for Linux feature, 
 
 * Source Control from bottom Status Bar
   * Open a Git repository with Visual Studio Code and right click the bottom status bar. Select `Source Control` so it becomes unchecked. This will prevent you from accidentally using non-terminal Git commands via Visual Studio Code.
+  * If you do not have this option make sure your Visual Studio Code is up to date. This was added in the June release. To uptade, go to Help -> Update.
 
 ![](.gitbook/assets/image%20%282%29.png)
 
