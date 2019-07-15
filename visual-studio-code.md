@@ -58,4 +58,4 @@ If you're using Windows 10 and enabled the Windows Subsystem for Linux feature, 
 
 * Bracket Pair Colorizer
 * Eslint
-* Wakatime
+* WakaTime
