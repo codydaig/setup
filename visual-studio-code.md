@@ -59,3 +59,4 @@ If you're using Windows 10 and enabled the Windows Subsystem for Linux feature, 
 * Bracket Pair Colorizer
 * Eslint
 * WakaTime
+* Any cosmetic custimizations of your choice (themes, fonts, icons)
