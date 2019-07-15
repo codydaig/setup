@@ -44,9 +44,17 @@ If you're using Windows 10 and enabled the Windows Subsystem for Linux feature, 
 
 ![](.gitbook/assets/image%20%282%29.png)
 
-### Banned
+### Banned VS Code Extensions
 
+* Code Runner
+* ES7 React/Redux/GraphQL/React-Native snippets
+* JavaScript (ES6) code snippets
+* Live Server
 * Prettier
 * Quokka
 * Using Git from within the Visual Studio Code GUI is prohibited. You may use Git functionality only from within the terminal. \(If you're using Git via integrated terminal, that's fine.\)
 
+### Approved VS Code Extensions
+
+* Bracket Pair Colorizer
+* Eslint
